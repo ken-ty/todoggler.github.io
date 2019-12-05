@@ -9,11 +9,13 @@
 - 台車ロボット(模様の描画や、倒立振子のバランス保持をする)
 - ロボットハンド
 - ライントレースカー etc…
-- 3目並べの研究(開発中)
+- 3目並べの研究([ソースコード](https://github.com/kentokura/TicTacToe_py))※開発中
 
 ### 趣味で製作したもの
 - [ボードゲーム](http://bglabo.main.jp)
 
 ### 勉強で製作したもの
-- [PHP製ブログ](https://github.com/kentokura/board)→[smartyを用いて開発中](https://github.com/kentokura/board_object)
+- [PHP製ブログ]()
+  - [ソースコード](https://github.com/kentokura/board)
+  - [ソースコード(smarty版)※開発中](https://github.com/kentokura/board_object)
 
