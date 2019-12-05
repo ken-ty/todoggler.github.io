@@ -15,5 +15,5 @@
 - [ボードゲーム](http://bglabo.main.jp)
 
 ### 勉強で製作したもの
-- PHP製ブログ(開発中)
+- [PHP製ブログ](https://github.com/kentokura/board)→[smartyを用いて開発中](https://github.com/kentokura/board_object)
 
