@@ -17,7 +17,7 @@ etc…
 
 ### 趣味で製作したもの
 - [ボードゲーム](http://bglabo.main.jp)
-  - アニメにちらっと出ました|дﾟ)
+  - アニメにちらっと出ました
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トマトマト持ってる！ <a href="https://t.co/BfKLtamb2U">pic.twitter.com/BfKLtamb2U</a></p>&mdash; うっくん (@ukn_pro) <a href="https://twitter.com/ukn_pro/status/1200034316874469376?ref_src=twsrc%5Etfw">November 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 勉強で製作したもの
