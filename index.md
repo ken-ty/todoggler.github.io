@@ -12,6 +12,7 @@
 - ライントレースカー
   ![ライントレースカー](/line_trace_car.gif)  
 - 3目並べの研究([ソースコード](https://github.com/kentokura/TicTacToe_py))※開発中
+  ![3目並べ研究照会](/3目紹介.JPG)
 
 etc…
 
