@@ -7,10 +7,10 @@
 ### 大学で製作したもの
 - 気圧センサによる在階推定システム
 - 台車ロボット(模様の描画や、倒立振子のバランス保持をする)
-![台車ロボット](https://github.com/kentokura/kentokura.github.io/blob/master/%E5%8F%B0%E8%BB%8A%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88.png)
+![台車ロボット](https://github.com/kentokura/kentokura.github.io/blob/master/%E5%8F%B0%E8%BB%8A%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88.jpg)
 - ロボットハンド
 - ライントレースカー
-![ライントレースカー](https://github.com/kentokura/kentokura.github.io/blob/master/%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%BC.png)
+![ライントレースカー](https://github.com/kentokura/kentokura.github.io/blob/master/%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%BC.jpg)
 - 3目並べの研究([ソースコード](https://github.com/kentokura/TicTacToe_py))※開発中
 
 etc…
