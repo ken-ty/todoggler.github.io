@@ -11,6 +11,8 @@
 - ロボットハンド
 - ライントレースカー
   ![ライントレースカー](/line_trace_car.gif)  
+- 音声認識プログラム([リポジトリ](https://github.com/kentokura/DPmatching))
+  ![DPmatching](/DPmatching_result.JPG)  
 - 3目並べの研究([ソースコード](https://github.com/kentokura/TicTacToe_py))※開発中
   ![3目並べ研究照会](/3目紹介.JPG)
 
