@@ -7,7 +7,7 @@
 ### 大学で製作したもの
 - 気圧センサによる在階推定システム
 - 台車ロボット(模様の描画や、倒立振子のバランス保持をする)
-  ![台車ロボット](https://github.com/kentokura/kentokura.github.io/blob/master/%E5%8F%B0%E8%BB%8A%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88.jpg)  
+  ![台車ロボット](/台車ロボット.jpg)  
 - ロボットハンド
 - ライントレースカー
   ![ライントレースカー](/line_trace_car.gif)  
@@ -22,7 +22,7 @@ etc…
 
 ### 勉強で製作したもの
 - [PHP製掲示板](http://18.182.118.211/board_object/)  
-  ![掲示板](https://github.com/kentokura/kentokura.github.io/blob/master/%E6%8E%B2%E7%A4%BA%E6%9D%BF.JPG)  
+  ![掲示板](.JPG)  
   - [ソースコード](https://github.com/kentokura/board)
   - [ソースコード(smarty版)※開発中](https://github.com/kentokura/board_object)
 
