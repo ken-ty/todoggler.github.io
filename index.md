@@ -10,7 +10,7 @@
   ![台車ロボット](https://github.com/kentokura/kentokura.github.io/blob/master/%E5%8F%B0%E8%BB%8A%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88.jpg)  
 - ロボットハンド
 - ライントレースカー
-  ![ライントレースカー](https://github.com/kentokura/kentokura.github.io/blob/master/line_trace_car.gif)  
+  ![ライントレースカー](/line_trace_car.gif)  
 - 3目並べの研究([ソースコード](https://github.com/kentokura/TicTacToe_py))※開発中
 
 etc…
