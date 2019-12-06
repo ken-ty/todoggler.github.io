@@ -22,7 +22,7 @@ etc…
 
 ### 勉強で製作したもの
 - [PHP製掲示板](http://18.182.118.211/board_object/)  
-  ![掲示板](.JPG)  
+  ![掲示板](掲示板.JPG)  
   - [ソースコード](https://github.com/kentokura/board)
   - [ソースコード(smarty版)※開発中](https://github.com/kentokura/board_object)
 
