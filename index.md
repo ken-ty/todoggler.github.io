@@ -7,11 +7,11 @@
 ### 大学で製作したもの
 - 気圧センサによる在階推定システム
 - 台車ロボット(模様の描画や、倒立振子のバランス保持をする)
-  ![台車ロボット](/台車ロボット.jpg)  
+  ![台車ロボット](/img//trolley_robot.jpg)  
 - ロボットハンド
 - ライントレースカー
   ![ライントレースカー](/img/line_trace_car.jpg)  
-- 音声認識プログラム([リポジトリ](https://github.com/kentokura/DPmatching))
+- 音声認識プログラム([リポジトリ](https://github.com/kentokura/DPmatching))  
   ![DPmatching](/img/DPmatching_result.JPG)  
 - 3目並べの研究([リポジトリ](https://github.com/kentokura/TicTacToe_py))※開発中
   ![3目並べ研究照会](/img/3目紹介.JPG)
