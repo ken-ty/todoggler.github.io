@@ -10,11 +10,11 @@
   ![台車ロボット](/台車ロボット.jpg)  
 - ロボットハンド
 - ライントレースカー
-  ![ライントレースカー](/line_trace_car.gif)  
+  ![ライントレースカー](/img/line_trace_car.jpg)  
 - 音声認識プログラム([リポジトリ](https://github.com/kentokura/DPmatching))
-  ![DPmatching](/DPmatching_result.JPG)  
+  ![DPmatching](/img/DPmatching_result.JPG)  
 - 3目並べの研究([リポジトリ](https://github.com/kentokura/TicTacToe_py))※開発中
-  ![3目並べ研究照会](/3目紹介.JPG)
+  ![3目並べ研究照会](/img/3目紹介.JPG)
 
 etc…
 
@@ -25,7 +25,7 @@ etc…
 
 ### 勉強で製作したもの
 - [PHP製掲示板](http://18.182.118.211/board_object/)  
-  ![掲示板](掲示板.JPG)  
+  ![掲示板](/img/掲示板.JPG)  
   - [ソースコード](https://github.com/kentokura/board)
   - [ソースコード(smarty版)※開発中](https://github.com/kentokura/board_object)
 
