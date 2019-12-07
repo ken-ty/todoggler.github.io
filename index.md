@@ -18,14 +18,14 @@
 
 etc…
 
-### 趣味で製作したもの
-- [ボードゲーム](http://bglabo.main.jp)をいくつか
-  - 出版されて、アニメにちらっと出くらいには有名に
-  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トマトマト持ってる！ <a href="https://t.co/BfKLtamb2U">pic.twitter.com/BfKLtamb2U</a></p>&mdash; うっくん (@ukn_pro) <a href="https://twitter.com/ukn_pro/status/1200034316874469376?ref_src=twsrc%5Etfw">November 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### 勉強で製作したもの
 - [PHP製掲示板](http://18.182.118.211/board_object/)  
   ![掲示板](/img/掲示板.JPG)  
   - [ソースコード](https://github.com/kentokura/board)
   - [ソースコード(smarty版)※開発中](https://github.com/kentokura/board_object)
+  
+### 趣味で製作したもの
+- [ボードゲーム](http://bglabo.main.jp)をいくつか
+  - 出版されて、アニメにちらっと出くらいには有名に
+  <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トマトマト持ってる！ <a href="https://t.co/BfKLtamb2U">pic.twitter.com/BfKLtamb2U</a></p>&mdash; うっくん (@ukn_pro) <a href="https://twitter.com/ukn_pro/status/1200034316874469376?ref_src=twsrc%5Etfw">November 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
