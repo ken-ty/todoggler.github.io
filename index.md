@@ -16,6 +16,9 @@
   - 使用言語はC
   ![台車ロボット](/img//trolley_robot.jpg)  
 - ロボットハンド
+  - ロボットハンドの先を製作
+  - Inventorで設計し、工作機械を用いて加工
+  - エアシリンダ―で駆動
 - ライントレースカー
   - H8マイコンを使用
   - 使用言語はC
@@ -23,7 +26,7 @@
 - 音声認識プログラム([リポジトリ](https://github.com/kentokura/DPmatching))  
   - 使用言語はC
   - アルゴリズムは動的計画法
-  - 特徴量抽出済みのデータを使用
+  - 特徴量抽出済みのデータを使用  
   ![DPmatching](/img/DPmatching_result.JPG)  
 - 3目並べの研究([リポジトリ](https://github.com/kentokura/TicTacToe_py))※開発中
   - 使用言語はPython
